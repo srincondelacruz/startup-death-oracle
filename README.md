@@ -395,4 +395,3 @@ python-dotenv>=1.0.0
 | `high_operational_costs` | Costos altos | Gastaban más de lo que ganaban |
 | `trend_shifts` | Mercado cambió | La tendencia pasó de moda |
 | `no_product_market_fit` | Sin PMF | Nadie quería
-
