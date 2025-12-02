@@ -1,0 +1,31 @@
+Name,Sector,Years of Operation,What They Did,How Much They Raised,Why They Failed,Takeaway,Giants,No Budget,Competition,Poor Market Fit,Acquisition Stagnation,Platform Dependency,Monetization Failure,Niche Limits,Execution Flaws,Trend Shifts,Toxicity/Trust Issues,Regulatory Pressure,Overhype
+Airware,Manufacturing,2011-2018,Drone hardware/software for industry,$70M,Lost to DJI and high costs,Drones need simplicity,1,1,1,0,0,0,0,0,0,0,0,0,0
+Anki,Manufacturing,2010-2019,AI-powered toy robots,$200M,High costs and competition from Lego/Sphero,Consumer hardware needs mass pricing,1,1,1,0,0,0,0,0,0,0,0,0,0
+Aptera Motors,Manufacturing,2005-2011,Three-wheeled electric vehicles,$40M,Lost to Tesla and quirky design,EVs need mainstream appeal,1,0,1,1,0,0,0,0,0,0,0,0,0
+Aria Insights,Manufacturing,2008-2019,Tethered industrial drones,$39M,Small market and lost to DJI/Skydio,Hardware niches need big adopters,1,0,1,1,0,0,0,1,0,0,0,0,0
+August Home,Manufacturing,2012-2017,Smart locks and doorbells,$73M,Lost to Ring/Nest and acquired,Smart home needs ecosystem power,1,0,1,0,1,0,0,0,0,0,0,0,0
+BeagleBone,Manufacturing,2011-2018,Open-source computers,$5M,Lost to Raspberry Pi and small niche,Open-source needs community,1,0,1,1,0,0,0,1,0,0,0,0,0
+Better Place,Manufacturing,2007-2013,EVs with swappable batteries,$850M,Lost to Tesla and high infra costs,Infra needs buy-in,1,1,1,0,0,0,0,0,0,0,0,0,0
+Butterfly Network,Manufacturing,2011-2020,Handheld ultrasound device,$400M,Lost to GE/Philips and slow adoption,Medical hardware needs fast inroads,1,1,1,1,0,0,0,0,0,0,0,0,0
+Cubelets,Manufacturing,2011-2020,Modular toy robots,$10M,Lost to Lego/Sphero and niche focus,Edtech needs scale,1,0,1,1,0,0,0,1,0,0,0,0,0
+Dyson's EV Project,Manufacturing,2017-2019,Electric vehicle,$2.7B,Lost to Tesla/Nio and high costs,EVs are a giant’s game,1,1,1,0,0,0,0,0,0,0,0,0,1
+Elio Motors,Manufacturing,2009-2020,Cheap three-wheeled car,$30M,Lost to Toyota/Honda and delays,Cheap cars need delivery,1,0,1,0,0,0,0,0,1,0,0,0,0
+Essential Products,Manufacturing,2015-2020,Premium smartphones,$330M,Poor sales vs Apple/Samsung,Smartphone giants are unbeatable,1,1,1,0,0,0,0,0,0,0,0,0,1
+Faraday Future,Manufacturing,2014-2023,Luxury electric vehicles,$3.5B,Mismanagement and Tesla/Rivian competition,EV hype needs execution,1,1,1,0,0,0,0,0,1,0,0,0,1
+Fisker Automotive,Manufacturing,2007-2013,Luxury hybrid-electric cars,$1.4B,Lost to Tesla and supplier failure,Luxury EVs need reliability,1,1,1,0,0,1,0,0,1,0,0,0,0
+GoPro Karma,Manufacturing,2015-2018,Consumer drone,$200M,Lost to DJI and recall issues,Drones need perfection,1,0,1,0,0,0,0,0,1,0,0,0,0
+Hello,Manufacturing,2012-2017,Sleep-tracking orb,$40M,Lost to Fitbit/Apple Watch,Sleep tech must be wearable,1,0,1,0,0,0,0,0,0,1,0,0,0
+Jawbone,Manufacturing,2006-2017,Fitness trackers/speakers,$930M,Competition and quality issues,Fitness hardware needs quality,1,0,1,0,0,0,0,0,0,1,0,0,0
+Juicero,Manufacturing,2013-2017,Wi-Fi juicer,$120M,Overkill product vs Ninja/Breville,Hardware must solve real problems,1,1,1,0,0,0,0,0,1,1,0,0,0
+Light,Manufacturing,2013-2020,Multi-lens camera,$70M,Smartphones caught up,Cameras can’t outrun trends,1,1,1,0,0,0,0,0,0,1,0,0,0
+Lily Robotics,Manufacturing,2013-2017,Self-flying drone camera,$15M+$34M pre-orders,Couldn’t deliver vs DJI,Don’t overpromise hardware,1,1,1,0,0,0,0,0,1,0,0,0,1
+Lytro,Manufacturing,2006-2018,Light-field cameras,$200M,Smartphones matched it vs Canon/Nikon,Cameras can’t beat smartphones,1,1,1,0,0,0,0,0,0,1,0,0,0
+MakerBot,Manufacturing,2009-2017,Desktop 3D printers,$10M+$403M acquisition,Lost to Ultimaker/Prusa post-acquisition,3D printing needs precision,1,0,1,0,1,0,0,0,1,0,0,0,0
+Osmo Systems,Manufacturing,2013-2020,IoT water sensors,$3M,Niche market vs Hach,IoT needs a big niche,1,0,1,1,0,0,0,1,0,0,0,0,0
+Pearl Automation,Manufacturing,2014-2017,Car rearview cameras,$50M,Lost to Tesla/Ford built-ins,Auto tech must beat OEMs,1,0,1,1,0,0,0,0,0,0,0,0,0
+Pebble,Manufacturing,2012-2016,Smartwatches,$40M,Lost to Apple Watch and sold,Smartwatches need ecosystems,1,0,1,0,1,0,0,0,0,0,0,0,0
+Quanergy,Manufacturing,2012-2022,LiDAR for autonomous vehicles,$160M,Lost to Velodyne/Luminar and delays,LiDAR needs booming market,1,1,1,0,0,0,0,0,0,0,0,0,0
+Rethink Robotics,Manufacturing,2008-2018,Collaborative robots,$150M,Lost to Universal Robots/Fanuc,Robotics demands ROI,1,1,1,0,0,0,0,0,0,0,0,0,0
+Skully Helmets,Manufacturing,2013-2016,AR motorcycle helmets,$15M,Mismanagement and no product vs Nolan/Shoei,AR needs execution,1,1,1,0,0,0,0,0,1,0,0,0,1
+Thalmic Labs,Manufacturing,2012-2020,Gesture-control armband,$135M,Lost to Leap Motion/Oculus and sold,Wearables need a killer app,1,0,1,0,1,0,0,0,0,0,0,0,0
+Zume,Manufacturing,2015-2023,Robotic pizza systems,$375M,High costs vs Domino’s/Papa John’s,Food tech needs efficiency,1,1,1,0,0,0,0,0,0,0,0,0,0

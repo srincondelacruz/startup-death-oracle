@@ -1,0 +1,18 @@
+# ===== SECRETOS =====
+. env
+
+# ===== PYTHON =====
+__pycache__/
+*.pyc
+venv/
+. venv/
+
+# ===== JUPYTER =====
+.ipynb_checkpoints/
+
+# ===== DATOS GRANDES =====
+*.npy
+
+# ===== OS =====
+.DS_Store
+Thumbs.db

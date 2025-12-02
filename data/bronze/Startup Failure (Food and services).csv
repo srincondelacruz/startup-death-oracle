@@ -1,0 +1,27 @@
+Name,Sector,Years of Operation,What They Did,How Much They Raised,Why They Failed,Takeaway,Giants,No Budget,Competition,Poor Market Fit,Acquisition Stagnation,High Operational Costs,Monetization Failure,Niche Limits,Execution Flaws,Trend Shifts
+Cafe X,Accommodation and Food Services,6 (2015-2021),Robotic coffee kiosks,$15M,Closed 2021; low adoption; lost to Starbucks,Humans trump robots,1,0,1,1,0,1,0,0,0,0
+Caviar,Accommodation and Food Services,8 (2012-2020),Premium food delivery,$90M,Sold 2020; couldn't scale; lost to DoorDash,Premium loses to scale,1,0,1,0,1,0,0,0,0,0
+Chef'd,Accommodation and Food Services,5 (2014-2019),Meal kit delivery,$35M,Closed 2019; high costs; lost to Blue Apron,Costs cook meal kits,1,0,1,0,0,1,0,0,0,0
+ChowNow,Accommodation and Food Services,12 (2011-2023),Restaurant ordering platform,$64M,Faded 2023; lost to DoorDash,Middlemen get squeezed,1,0,1,0,0,0,0,0,0,0
+Clover,Accommodation and Food Services,8 (2012-2020),Plant-based fast food chain,$20M,Closed 2020; niche; lost to McDonald's,Niche eats need taste,1,0,1,0,0,1,0,1,0,0
+Curb Food,Accommodation and Food Services,4 (2019-2023),Automated ghost kitchens,$10M,Closed 2023; tech glitches; lost to DoorDash,Robots need results,1,0,1,0,0,1,0,0,1,0
+Dinner Lab,Accommodation and Food Services,6 (2011-2017),Pop-up dining events,$10M,Closed 2017; high costs; low demand,Events need economics,0,1,0,1,0,1,0,0,0,0
+Flowtab,Accommodation and Food Services,3 (2011-2014),Bar ordering app,$2M,Closed 2014; low adoption; lost to POS systems,Convenience needs converts,0,1,0,1,0,0,0,0,0,0
+Foodler,Accommodation and Food Services,14 (2004-2018),Food delivery aggregator,$5M,Sold 2018; lost to Grubhub,Aggregators need scale,1,0,1,0,1,0,0,0,0,0
+Grubwithus,Accommodation and Food Services,5 (2010-2015),Social dining events,$8M,Closed 2015; waned demand; high costs,Social dining needs crowd,0,1,0,1,0,1,0,0,0,0
+Maple,Accommodation and Food Services,5 (2014-2019),Premium meal delivery,$50M,Closed 2019; high costs; lost to DoorDash,Premium food needs profit,1,0,1,0,0,1,0,0,0,0
+Munchery,Accommodation and Food Services,8 (2010-2018),Chef-prepared meal delivery,$125M,Bankruptcy 2018; overexpansion; lost to Grubhub,Expansion eats cash,1,0,1,0,0,1,0,0,1,0
+Nosh,Accommodation and Food Services,4 (2013-2017),Healthy meal delivery,$5M,Closed 2017; low demand; lost to HelloFresh,Health needs scale,1,1,1,0,0,1,0,0,0,0
+OrderAhead,Accommodation and Food Services,6 (2011-2017),Restaurant pickup app,$10M,Sold 2017; lost to DoorDash,Pickup needs giants,1,0,1,0,1,0,0,0,0,1
+Presto,Accommodation and Food Services,5 (2015-2020),Restaurant ordering tablets,$30M,Closed 2020; low adoption; lost to Ziosk,Tech needs diners,0,0,1,1,0,1,0,0,0,0
+Revolution Foods,Accommodation and Food Services,15 (2006-2021),Healthy school meals,$120M,Faded 2021; high costs; lost to Aramark,Schools squeeze margins,0,0,1,0,0,1,0,0,0,0
+Ritual,Accommodation and Food Services,8 (2014-2022),Food pickup app,$135M,Faded 2022; lost to DoorDash; pickup waned,Delivery beats pickup,1,0,1,0,0,1,0,0,0,1
+SpoonRocket,Accommodation and Food Services,4 (2013-2017),On-demand meal delivery,$13M,Closed 2017; thin margins; lost to DoorDash,Speed costs too much,1,1,1,0,0,0,1,0,0,0
+Sprig,Accommodation and Food Services,4 (2013-2017),Organic meal delivery,$57M,Closed 2017; high costs; lost to Uber Eats,Organic's pricey,1,0,1,0,0,1,0,0,0,0
+Tonx,Accommodation and Food Services,5 (2012-2017),Coffee subscription service,$4M,Sold 2017; lost to Blue Bottle,Beans need scale,1,0,0,0,1,0,0,0,0,0
+Zesty,Accommodation and Food Services,7 (2012-2019),Healthy meal delivery,$20M,Closed 2019; high costs; lost to DoorDash,Health needs scale,1,0,1,0,0,1,1,0,0,0
+Zomato Base,Accommodation and Food Services,5 (2015-2020),Restaurant management tool,$660M (Zomato),Phased out 2020; lost to Toast,Tools need focus,0,0,1,0,0,0,0,0,0,0
+Deskbeers,Accommodation and Food Services,5 (2014-2019),Craft beer subscription,$1M,Closed 2019; niche; lost to local bars,Booze needs breadth,1,1,0,0,0,0,0,1,0,0
+HelloFresh Recipe,Accommodation and Food Services,8 (2012-2020),Recipe platform spinoff,$300M (HelloFresh),Phased out 2020; lost to Blue Apron,Spinoffs need spark,1,0,1,0,0,0,0,0,0,0
+Tavour,Accommodation and Food Services,9 (2013-2022),Craft beer delivery,$10M,Faded 2022; lost to Total Wine,Craft needs scale,1,0,0,0,0,0,0,1,0,0
+Tastemade Travel,Accommodation and Food Services,5 (2017-2022),Food-tourism platform,$80M (Tastemade),Faded 2022; low demand; lost to Airbnb,Travel eats budgets,1,0,1,1,0,0,0,0,0,0

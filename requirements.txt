@@ -1,0 +1,8 @@
+sentence-transformers
+google-generativeai
+chromadb
+pandas
+numpy
+scikit-learn
+streamlit
+python-dotenv
