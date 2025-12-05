@@ -293,10 +293,10 @@ startup-death-oracle/
 ├── 📂 notebooks/                 # Notebooks Databricks
 │   ├── 01_Bronze_Ingestion.py
 │   ├── 02_Silver_Cleaning.py
-│   ├── 03_Gold_Embeddings. py    # Sentence Transformers
-│   └── 04_RAG.py                # Cosine + ChromaDB + Gemini
+│   ├── 03_Gold_Embeddings.py     # Sentence Transformers
+│   └── 04_RAG.py                 # Cosine + ChromaDB + Gemini
 │
-├── . env                          # API Keys
+├── .env                          # API Keys (NO incluido en repo, ver sección de configuración)
 ├── .gitignore
 ├── requirements.txt
 └── README.md
@@ -318,12 +318,43 @@ venv\Scripts\activate
 # 3.  Dependencias
 pip install -r requirements.txt
 
-# 4.  Configurar API Key
-echo GEMINI_API_KEY=tu_api_key > .env
+# 4.  Configurar API Key (ver sección de configuración abajo)
+echo "GEMINI_API_KEY=tu_api_key_aqui" > .env
+# Edita .env con tu API key real
 
 # 5.  Ejecutar
 streamlit run app/streamlit_app.py
 ```
+
+---
+
+## 🔐 Configuración de Variables de Entorno
+
+> ⚠️ **IMPORTANTE**: Nunca subas archivos `.env` con claves API reales al repositorio. El archivo `.env` está incluido en `.gitignore` para prevenir esto.
+
+Para configurar tu entorno local:
+
+1. **Crea un archivo `.env`** en la raíz del proyecto:
+   ```bash
+   touch .env
+   ```
+
+2. **Añade tu API Key de Gemini**:
+   ```
+   GEMINI_API_KEY=tu_api_key_aqui
+   ```
+
+3. **Obtén tu API Key**:
+   - Ve a [Google AI Studio](https://aistudio.google.com/app/apikey)
+   - Crea una nueva API Key
+   - Cópiala en tu archivo `.env`
+
+### Ejemplo de archivo `.env`:
+```env
+GEMINI_API_KEY=AIzaSy...
+```
+
+> 💡 **Tip**: Nunca compartas tu API Key públicamente ni la incluyas en commits de git.
 
 ---
 
