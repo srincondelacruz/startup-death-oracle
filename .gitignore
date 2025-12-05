@@ -1,11 +1,12 @@
 # ===== SECRETOS =====
-. env
+.env
+.env.*
 
 # ===== PYTHON =====
 __pycache__/
 *.pyc
 venv/
-. venv/
+.venv/
 
 # ===== JUPYTER =====
 .ipynb_checkpoints/
